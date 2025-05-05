@@ -1,4 +1,4 @@
-🌍 Language Translator with Gemini AI 🚀
+🌍<h1>Language Translator with Gemini AI<h1>🚀
 <br>
 A simple web application built with Streamlit and Gemini AI to translate text into different languages easily and quickly.
 <br>

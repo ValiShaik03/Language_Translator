@@ -36,5 +36,5 @@ os.environ["GOOGLE_API_KEY"] = "your-api-key-here"
 <br>
 *Google Generative AI (google-generativeai library)
 <br>
-<img src="outputscreenshot.png" alt="App Screenshot" width="600"/>
+![image alt](https://github.com/ValiShaik03/Language_Translator/blob/91950f47c262fdfd5d8f82e38bc1b76c46118d23/screenshot.png)
 

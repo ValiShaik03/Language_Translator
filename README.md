@@ -30,5 +30,5 @@ os.environ["GOOGLE_API_KEY"] = "your-api-key-here"
 *Python
 *Streamlit
 *Google Generative AI (google-generativeai library)
-<img src="C:\Users\mdval\Downloads\outputscreenshot.png" alt="App Screenshot" width="600"/>
+<img src="outputscreenshot.png" alt="App Screenshot" width="600"/>
 

@@ -22,13 +22,17 @@ http://localhost:8501
 ```
 🔑 API Key Setup
 1.Get your Google Generative AI API Key.
+<br>
 2.Add it into app.py:
+<br>
 ```python
 os.environ["GOOGLE_API_KEY"] = "your-api-key-here"
 ```
 🛠️ Tech Stack
 *Python
+<br>
 *Streamlit
+<br>
 *Google Generative AI (google-generativeai library)
 <img src="outputscreenshot.png" alt="App Screenshot" width="600"/>
 

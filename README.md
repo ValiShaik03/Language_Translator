@@ -21,6 +21,7 @@ Then open your browser and go to:
 http://localhost:8501
 ```
 🔑 API Key Setup
+<br>
 1.Get your Google Generative AI API Key.
 <br>
 2.Add it into app.py:
@@ -34,5 +35,6 @@ os.environ["GOOGLE_API_KEY"] = "your-api-key-here"
 *Streamlit
 <br>
 *Google Generative AI (google-generativeai library)
+<br>
 <img src="outputscreenshot.png" alt="App Screenshot" width="600"/>
 
